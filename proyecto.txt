@@ -1,2 +1,3 @@
 Hola, este es mi proyecto con Git en Vagrant.
 Versión 2 del archivo
+Nueva línea
